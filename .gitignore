@@ -1,0 +1,12 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Databricks local
+.ipynb_checkpoints/
+
+# Artifacts
+index_npz/
+dbfs_index/
+*.log
