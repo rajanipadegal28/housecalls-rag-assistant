@@ -1,0 +1,6 @@
+
+HouseCalls Eligibility Guide
+- Member must have active coverage (no lapse)
+- No completed HouseCalls visit in last 90 days
+- At least one open care gap (e.g., A1c, BP, Retinal exam)
+- Confirm phone and address before scheduling

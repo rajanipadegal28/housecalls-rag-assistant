@@ -1,0 +1,7 @@
+
+Diabetes Claim Submission Checklist
+Required:
+- Physician prescription/order
+- Lab results supporting diagnosis (A1c, fasting glucose)
+- ICD-10 codes: E11.x (as applicable)
+- Completed claim form and Member ID

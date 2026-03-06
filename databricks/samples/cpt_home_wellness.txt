@@ -1,0 +1,5 @@
+
+Home Wellness Visit — Codes (CPT/HCPCS)
+- G0438: Initial Annual Wellness Visit
+- G0439: Subsequent Annual Wellness Visit
+- 99441–99443: Telephone E/M (if applicable per policy)
